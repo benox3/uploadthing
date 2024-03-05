@@ -18,9 +18,9 @@
     "start": "concurrently \"bun --cwd client start\" \"bun --cwd server start\""
   },
   "dependencies": {
-    "@uploadthing/react": "6.3.2",
+    "@uploadthing/react": "6.3.3",
     "concurrently": "^8.2.2",
     "typescript": "^5.3.3",
-    "uploadthing": "6.5.0"
+    "uploadthing": "6.5.1"
   }
 }
